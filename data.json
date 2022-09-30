@@ -1,0 +1,40 @@
+let myPlanner=`[{
+
+
+    "taskName": "Buy food for a dog",
+
+    "image": "52894.jpg",
+
+    "description": "Go with Bubi for a walk and also buy for her a new toy.",
+
+    "importance": 0,
+    "deadline": "02.10.2022"
+
+
+},
+{
+
+    "taskName": "shopping",
+
+    "image": "img/groceries.jpg",
+
+    "description": "Shop for weekly groceries at Billa and Hofer.",
+
+    "importance": 0,
+    "deadline": "02.10.2022"
+
+  } ,
+  {
+
+    "taskName": "shopping",
+
+    "image": "img/groceries.jpg",
+
+    "description": "Shop for weekly groceries at Billa and Hofer.",
+
+    "importance": 0,
+    "deadline": "02.10.2022"
+  }
+
+
+]`
