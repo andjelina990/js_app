@@ -14,26 +14,63 @@ let myPlanner=`[{
 },
 {
 
-    "taskName": "shopping",
+    "taskName": "Buy birthday present",
 
-    "image": "img/groceries.jpg",
+    "image": "1.jpg",
 
-    "description": "Shop for weekly groceries at Billa and Hofer.",
+    "description": "Sister celebrate birthday on Saturday.",
 
     "importance": 0,
-    "deadline": "02.10.2022"
+    "deadline": "05.10.2022"
 
   } ,
   {
 
-    "taskName": "shopping",
+    "taskName": "Learn Programming",
 
-    "image": "img/groceries.jpg",
+    "image": "2.jpg",
 
-    "description": "Shop for weekly groceries at Billa and Hofer.",
+    "description": "Increase the skills",
 
     "importance": 0,
-    "deadline": "02.10.2022"
+    "deadline": "03.10.2022"
+  },
+  {
+
+
+    "taskName": "Wash car",
+
+    "image": "3.jpg",
+
+    "description": "The car is very dirty,i have to wasch it as soon as possible.",
+
+    "importance": 0,
+    "deadline": "07.10.2022"
+
+
+},
+{
+
+    "taskName": "Clean the flat",
+
+    "image": "4.jpg",
+
+    "description": "Every week the flat should be cleaned.",
+
+    "importance": 0,
+    "deadline": "05.10.2022"
+
+  } ,
+  {
+
+    "taskName": "Meet a friends",
+
+    "image": "5.webp",
+
+    "description": "Just whole day chill with a friends",
+
+    "importance": 0,
+    "deadline": "07.10.2022"
   }
 
 
